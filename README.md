@@ -25,5 +25,5 @@ I tried to download the image I chose so that the image I am going to deal with 
 I tried to get the screenshot of the page and cut the part I want (which is the image I clicked). So this time I send the image to background to do style transfer. At first I thought doing style transfer in background won’t slow down the user doing things at front. However, it seems that it will slow down the whole browser. Fortunately, the image is not that large, so it only takes few seconds. 
 
 <p align="center">
-	<img src="./readme/result_2.png" height="440>
+	<img src="./readme/result_2.png" height="440">
 </p>
